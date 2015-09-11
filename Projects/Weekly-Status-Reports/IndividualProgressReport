@@ -1,8 +1,105 @@
 Write your progress for your individual contributions in the team project - Be as specific as possible
 
-Previous Week's Goals
+Project Plan: (Make a Difference)
+Written by: (Transformers)
+(Satyendra kumar)
+(Anurag Mishra)
+(Aravind Ashok)
+(Naveen thella)
 
-Accomplishments/Deliverables
+1 Introduction
+
+We all know that in today's world there are many types of issues which nobody notices.
+In all that issues, some may be private, some public and few social. Few social means that there are social problems which should be solve in quick time. But nobody noticed it, that why i mention few social issues. So our aim to develop an app that would help the people to contact / connect the government. If we will highlight that issue in front of government then government also will halp that people. For example-  If there is no electicity, no water, no hospital for any types of emergency, child labour and theft areas. People can take a photo and upload or share threw our app. Which post will get highest no. Of like and comment that problem will be promote to government. So it will get solve by government.
+
+2 Overview
+We are desiging an app which will connect a comman men and Indian government. So that comman men get solution of their problems.
+
+2.1 Customers 
+Wherever the app gets deployed, all the citizens of that country can be enrolled using that application.
+  
+2.2  Functionality
+  we have a variety of development topic  which aim to cover practical uses of web APIs and other technologies, used together to perform tasks and solve different catgories of problems.
+
+Control data flow
+This section provides a basic guide to setting up the data flow through your application, including HTTP basics, and when and how to use Ajax.
+Gather and modify data
+A lot of what you'll want to do involves retrieving data — from files, the device hardware and key services, and the location around the device. 
+Control the display
+Here you can use to control the display of data to the user. Obvious topics are full screen, orientation and pointer lock, but this also includes creating phone notifications and controlling vibration.
+Implement user input and control mechanisms
+Modern user input goes beyond simple mouse and keyboard, including pointer lock, touch inputs, drag and drop, and more. This section should provide best practices articles that cover the different disciplines in detail.
+Work offline
+When using apps, it is a great advantage to be able to continue using them when a network connection isn't available, especially on portable devices like laptops and mobile phones. This section looks in detail at making apps work offline using mechanisms.
+Manipulate media
+A lot of modern web usage includes the consumption and manipulation of media, such as images and video. This part of our docs looks at video, audio, and images, and how to do interesting things with them inside Open Web Apps.
+Advanced network communication
+This section will move on from our basic data flow article, looking at advanced network communication technologies and technniques like CORS, system Ajax, WebRTC, Web sockets.
+Utilize User services
+Here we look at APIs designed to facilitate common user services, such as taking payments and login functionality.
+App permissions
+Access to device APIs is key to creating many useful apps. Here is what's available and how to access them.
+2.3 Platform
+
+Our app based on server and client based. Here we can use c,c++, java, mysql,css etc.
 
 
-Next Week's goals
+2.4 Development Responsibility
+System never be hack by anybody. Should be able to hold many requests in instant of time. Server should be always online. Database can not be change or modify by anyone.
+Real time operations should not be stop at any time, at any cost.
+
+
+
+3 Goals and Scope
+
+The app should be scalable, it should be user friendly. 
+They should become more aware, it should become part of government body.
+The main scope is welfare of the people in the society.
+
+
+4 Deliverables
+The sponsor will get free publicity by this app. We will provide open source to our app for any type of users. 
+
+5 Risk Management
+       How to manage this app, database of that app, updates in future.
+       Security may be big problem, how to make more secure. Durability                     of our app should more and stability as well. 
+
+In future, If we will face any problems regarding database. We will use more types of database.
+ Example:- Php, java,python,mysql
+
+5.1 Risk Identification
+Risk identification is the process of determining risks.It includes documenting and communicating the concern.
+
+For risk identification, the project team should review the program scope, cost estimates, schedule,technical maturity, key performance parameters, performance challenges, stakeholder expectations vs. current plan, external and internal dependencies, implementation challenges, integration, interoperability, supportability, supply-chain vulnerabilities, ability to handle threats, cost deviations, test event expectations, safety, security, and more.
+
+ In addition, historical data from similar projects, stakeholder interviews, and risk lists provide valuable insight into areas for consideration of risk.
+
+5.2 Risk Mitigation
+Develop a high-level mitigation strategy. Here we will decrease the nubmer of risk in our app. For example, increasing staffing or reducing scope. Identify actions and steps needed to implement the mitigation strategy.
+ 
+6 Scheduling and Estimates
+ 
+You should set milestones and try to stick to the schedule. An example release schedule is provided here:
+
+
+Milestone                 Description                       Release Date                Release Iteration
+
+M1                        user management,
+                          basic distributed filesystem      September 30, 2011                R1
+M2                        project management, 
+                          basic distributed filesystem      October 7, 2011                   R1
+
+M3                        user groups and permissions       October 14, 2011                  R1
+
+M4                        SCM, issue tracker                October 24, 20011                 R2
+
+M5                        issue tracker, user reviews,
+                          web design integration            November 1, 2011                  R2
+
+M6                        filesystem node management,
+                          web design integration            November 14, 2011                 R2
+
+A more detailed description of the features for each milestone should be provided in the requirements document (using use cases).
+
+
+
