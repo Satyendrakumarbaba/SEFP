@@ -21,23 +21,39 @@ Wherever the app gets deployed, all the citizens of that country can be enrolled
 2.2  Functionality
   we have a variety of development topic  which aim to cover practical uses of web APIs and other technologies, used together to perform tasks and solve different catgories of problems.
 
-Control data flow
+Control data flow:-
 This section provides a basic guide to setting up the data flow through your application, including HTTP basics, and when and how to use Ajax.
-Gather and modify data
+
+
+Gather and modify data:-
 A lot of what you'll want to do involves retrieving data — from files, the device hardware and key services, and the location around the device. 
-Control the display
+
+
+Control the display:-
 Here you can use to control the display of data to the user. Obvious topics are full screen, orientation and pointer lock, but this also includes creating phone notifications and controlling vibration.
-Implement user input and control mechanisms
+
+
+Implement user input and control mechanisms:-
 Modern user input goes beyond simple mouse and keyboard, including pointer lock, touch inputs, drag and drop, and more. This section should provide best practices articles that cover the different disciplines in detail.
-Work offline
+
+
+Work offline:-
 When using apps, it is a great advantage to be able to continue using them when a network connection isn't available, especially on portable devices like laptops and mobile phones. This section looks in detail at making apps work offline using mechanisms.
-Manipulate media
+
+
+Manipulate media:-
 A lot of modern web usage includes the consumption and manipulation of media, such as images and video. This part of our docs looks at video, audio, and images, and how to do interesting things with them inside Open Web Apps.
-Advanced network communication
+
+
+Advanced network communication:-
 This section will move on from our basic data flow article, looking at advanced network communication technologies and technniques like CORS, system Ajax, WebRTC, Web sockets.
-Utilize User services
+
+
+Utilize User services:-
 Here we look at APIs designed to facilitate common user services, such as taking payments and login functionality.
-App permissions
+
+
+App permissions:-
 Access to device APIs is key to creating many useful apps. Here is what's available and how to access them.
 2.3 Platform
 
