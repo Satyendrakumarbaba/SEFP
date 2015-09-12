@@ -1,1 +1,113 @@
 Uplodad  the project proposal here
+
+
+Project Plan: (Farket)
+Written by: 
+(Satyendra kumar)
+
+1 Introduction
+
+In this project my aim is to develop an app for the farmers which would be exactly based on the model of e-commerce website like flipkart, myntra etc. This will basically focus on the welfare of the farmers i.e  farmers are less paid by the middle man when they sell their goods  but with the help of this we are trying to show the list of buyers which will be directly in contact with the farmers. The farmer will select those buyers which fetch him maximum profit. Also, we will also try to incorporate a small market for farmers which would satisfy the need of basic equipment which is required for the farmer to  do their job. 
+
+
+2 Overview
+Basicly I am trying to develope an app, wich will help to farmers as well as their costomers. Both can comunicate to each other threw this my app.
+
+2.1 Customers 
+Wherever the app gets deployed, all the citizens and farmers  of that country can be enrolled using that application.(a common men also)
+  
+2.2  Functionality
+  we have a variety of development topic  which aim to cover practical uses of app and other technologies, used together to perform tasks and solve different catgories of problems.
+
+    City Selection
+    Product Search
+    Homepage Categories
+    Footer
+    Submit a free classified
+    Verification
+    Create Account
+    Login
+    Advertisement Preview
+    Account Section
+    Product Listing
+      Product page
+      Favorites
+      Popular Search Phrases
+      Mobile Apps
+
+Competitors and Areas of improvements
+ 	
+      Ads for buying
+      Estimated selling price
+ 	Intrusive Google AdSense Ads
+ 	 Advanced Search filters
+ 	 Separate ads for buyers and sellers
+ 	 Product alerts
+
+App permissions
+       Access to device APIs is key to creating many useful apps. Here is what's available and how to access them. 
+2.3 Platform
+
+Our app based on server and client based. Here we can use c,c++, java, mysql,css etc.
+
+2.4 Development Responsibility
+      System never be hack by anybody. Should be able to hold many requests in instant of time. Server should be always online.
+      Database can not be change or modify by anyone.
+      Real time operations should not be stop at any time, at any cost.
+People could also use this app in different languages. 
+
+3 Goals and Scope
+The app should be scalable, it should be user friendly. 
+They should become more aware, it should become part of government body.
+The main scope is welfare of the people in the society.Avoid to fake dealers.
+
+
+4 Deliverables
+We will provide open source to our app for any type of users. 
+Deliverables should be meaningful.
+You must be able to deliver your deliverables during the course of your project.
+When it comes to the number of deliverables more, it should be better then others
+
+5 Risk Management
+       How to manage this app, database of that app, updates in future.
+       Security may be big problem, how to make more secure. Durability                     of our app should more and stability as well. 
+
+In future, If we will face any problems regarding database. We will use more types of database.
+ Example:- Php, java,python,mysql
+
+5.1 Risk Identification
+Risk identification is the process of determining risks.It includes documenting and communicating the concern.
+I should design the app like that any programmer easilt could findout the mistakes and bugs.
+
+
+
+
+5.2 Risk Mitigation
+Develop a high-level mitigation strategy. Here I'll decrease the nubmer of risk in my app. For example, increasing staffing or reducing scope. Identify actions and steps needed to implement the mitigation strategy.
+ 
+6 Scheduling and Estimates
+ 
+You should set milestones and try to stick to the schedule. An example release schedule is provided here:
+
+
+Milestone                         Description                    Release Date                   Release Iteration
+
+M1                                user management,
+                                  basic distributed filesystem    September 30, 2011                  R1
+
+M2                                project management,   
+                                  basic distributed filesystem    October 7, 2011                     R1
+
+M3                                user groups and permissions     October 14, 2011                    R1
+
+M4                                SCM, issue tracker              October 24, 20011                   R2
+
+M5                                issue tracker, user reviews,
+                                  web design integration          November 1, 2011                    R2
+                                  
+M6                                filesystem node management,
+                                  web design integration          November 14, 2011                   R2
+
+A more detailed description of the features for each milestone should be provided in the requirements document (using use cases).
+
+
