@@ -1,0 +1,5 @@
+Just run the .html file and enjoy the game.
+
+Ther are few types of words. So you may have to look for game.js file. Find out the words out of the table and click on check to find out whether you have guessed a correct word or not.
+
+As of now, the dictionary has less number of Hindi words, so it may happen that you guess some word which is not there in the javascript file then it shows that the guess is wrong.
